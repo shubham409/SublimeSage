@@ -1,0 +1,22 @@
+{
+	"atomic_save": true,
+	"auto_complete": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font_size": 20,
+	"ignored_packages":
+	[
+		"Competitive Programming",
+		"CppFastOlympicCoding",
+		"Javatar",
+		"KiteSublime",
+		"Pylinter",
+		"Qt Completions for C++",
+		"SublimeLinter",
+		"Vintage"
+	],
+	"line_numbers": true,
+	"margin": 4,
+	"mini_diff": false,
+	"save_on_focus_lost": true,
+	"theme": "Adaptive.sublime-theme"
+}

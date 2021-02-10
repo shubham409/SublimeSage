@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"A File Icon",
+		"Anaconda",
+		"auto-save",
+		"C Improved",
+		"C++ Classhelper",
+		"C++ Completions",
+		"C++ Snippets",
+		"C++ Starting Kit",
+		"C++11",
+		"C++NamespaceTool",
+		"Codeforces Util",
+		"Competitive Programming",
+		"Conda",
+		"CPP Competitive Programming Snippets",
+		"CppFastOlympicCoding",
+		"FileIcons",
+		"Java Velocity",
+		"JavaIME",
+		"JavaImports",
+		"Javatar",
+		"Jedi - Python autocompletion",
+		"Package Control",
+		"Paste PDF Text Block",
+		"Pylinter",
+		"Python 3",
+		"Python Completions",
+		"Python Improved",
+		"Python PEP8 Autoformat",
+		"Qt Completions for C++",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeREPL"
+	]
+}

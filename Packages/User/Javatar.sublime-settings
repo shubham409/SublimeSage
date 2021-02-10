@@ -1,0 +1,29 @@
+{
+	"jdk_version":
+	{
+		"JDK11.0.2":
+		{
+			"path": "C:\\Program Files\\Java\\jdk-11.0.2\\bin",
+			"version": "11.0.2"
+		},
+		"JDK14.0.1":
+		{
+			"path": "C:\\Program Files\\Java\\jdk-14.0.1\\bin",
+			"version": "14.0.1"
+		},
+		"use": "JDK14.0.1"
+	},
+	"message_id": 20,
+	"project_data":
+	{
+		"2":
+		{
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\small\\Desktop\\dsa_chef"
+				}
+			]
+		}
+	}
+}

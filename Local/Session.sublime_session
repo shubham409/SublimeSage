@@ -1,0 +1,3362 @@
+{
+	"folder_history":
+	[
+		"/C/Users/small/Desktop/cp2021",
+		"/C/Users/small/Desktop/impcode",
+		"/C/Users/small/Desktop/tcs1",
+		"/C/Users/small/Desktop/dsa_chef",
+		"/C/Users/small/Desktop/cf",
+		"/C/Users/small/Desktop/vspy",
+		"/C/Users/small/Desktop/project_practice",
+		"/C/Users/small/Desktop/subcpp",
+		"/C/Users/small/Desktop/vscpp",
+		"/C/Users/small/Desktop/blank_py"
+	],
+	"last_version": 3211,
+	"last_window_id": 43,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 762.4,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"re",
+						"replace\tfunction"
+					],
+					[
+						"r",
+						"range\tclass"
+					],
+					[
+						"intp",
+						"input\tfunction"
+					],
+					[
+						"ran",
+						"range\tclass"
+					],
+					[
+						"fro",
+						"for\tFor Loop"
+					],
+					[
+						"cou",
+						"count\tstatement"
+					],
+					[
+						"C",
+						"Counter\tclass"
+					],
+					[
+						"co",
+						"collections\tmodule"
+					],
+					[
+						"it",
+						"itertools\tmodule"
+					],
+					[
+						"Str",
+						"string\tmodule"
+					],
+					[
+						"set",
+						"set1\tstatement"
+					],
+					[
+						"in",
+						"int\tint"
+					],
+					[
+						"ls",
+						"ls2\tstatement"
+					],
+					[
+						"fin",
+						"findMedianSortedArrays\tfunction"
+					],
+					[
+						"num",
+						"nums2\tparam"
+					],
+					[
+						"nums",
+						"nums2\tparam"
+					],
+					[
+						"le",
+						"lengthOfLongestSubstring\tfunction"
+					],
+					[
+						"s",
+						"sqrt\tfunction"
+					],
+					[
+						"c",
+						"countSquares\tfunction"
+					],
+					[
+						"int",
+						"intmax\tstatement"
+					],
+					[
+						"e",
+						"evenx\tstatement"
+					],
+					[
+						"eve",
+						"eveny\tstatement"
+					],
+					[
+						"odd",
+						"oddy\tstatement"
+					],
+					[
+						"fl",
+						"floor\tfunction"
+					],
+					[
+						"ma",
+						"math\tmodule"
+					],
+					[
+						"F",
+						"False\tkeyword"
+					],
+					[
+						"ele",
+						"else\telse"
+					],
+					[
+						"st",
+						"stack\tstatement"
+					],
+					[
+						"ptr",
+						"ptr2\tstatement"
+					],
+					[
+						"merge",
+						"merge_sort"
+					],
+					[
+						"bre",
+						"break\tkeyword"
+					],
+					[
+						"for",
+						"forrange\trange-based for"
+					],
+					[
+						"end",
+						"endl\tostream"
+					],
+					[
+						"com",
+						"complex\tclass"
+					],
+					[
+						"cod",
+						"codechef\tcodeChefStarter"
+					],
+					[
+						"vec",
+						"I-vector\tinc"
+					],
+					[
+						"No",
+						"None\tkeyword"
+					],
+					[
+						"fo",
+						"forrange\trange-based for"
+					],
+					[
+						"ch",
+						"check_password_hash\tfunction"
+					],
+					[
+						"sm",
+						"sm_Bob\tstatement"
+					],
+					[
+						"sm_",
+						"sm_Limak\tstatement"
+					],
+					[
+						"sum",
+						"sum_\tstatement"
+					],
+					[
+						"Pr",
+						"print\tfunction"
+					],
+					[
+						"glo",
+						"global\tkeyword"
+					],
+					[
+						"sc",
+						"scmin\tstatement"
+					],
+					[
+						"elem",
+						"elements\tfunction"
+					],
+					[
+						"list",
+						"list\tlist"
+					],
+					[
+						"sor",
+						"sort_x\tstatement"
+					],
+					[
+						"ra",
+						"range\tfunction"
+					],
+					[
+						"digit",
+						"digit_r"
+					],
+					[
+						"ans",
+						"ans_r\tstatement"
+					],
+					[
+						"tu",
+						"turn\tstatement"
+					],
+					[
+						"inp",
+						"input\tinput"
+					],
+					[
+						"ne",
+						"next\tnext"
+					],
+					[
+						"cla",
+						"class\tkeyword"
+					],
+					[
+						"cl",
+						"class\tkeyword"
+					],
+					[
+						"to",
+						"total_element\tstatement"
+					],
+					[
+						"__di",
+						"__dict__\tmagic"
+					],
+					[
+						"all",
+						"all_work\tstatement"
+					],
+					[
+						"em",
+						"empty\tfunction"
+					],
+					[
+						"fli",
+						"fliplr\tfunction"
+					],
+					[
+						"dia",
+						"diagonal\tfunction"
+					],
+					[
+						"rand",
+						"randint\tfunction"
+					],
+					[
+						"lo",
+						"lower\tparam"
+					],
+					[
+						"mess",
+						"messagebox\tmodule"
+					],
+					[
+						"mes",
+						"message_fun\tfunction"
+					],
+					[
+						"la",
+						"Label\tclass"
+					],
+					[
+						"su",
+						"super\tclass"
+					],
+					[
+						"add_",
+						"add_command\tfunction"
+					],
+					[
+						"add",
+						"add_cascade\tfunction"
+					],
+					[
+						"main",
+						"main_line\tstatement"
+					],
+					[
+						"Top",
+						"TOP\tstatement"
+					],
+					[
+						"BO",
+						"BOTTOM\tstatement"
+					],
+					[
+						"bu",
+						"Button\tclass"
+					],
+					[
+						"try",
+						"try\tkeyword"
+					],
+					[
+						"exc",
+						"Exception\texception"
+					],
+					[
+						"w",
+						"weights\tparam"
+					],
+					[
+						"pl",
+						"plot\tfunction"
+					],
+					[
+						"py",
+						"pyplot\tmodule"
+					],
+					[
+						"mat",
+						"matplotlib\tmodule"
+					],
+					[
+						"fil",
+						"filterfalse\tclass"
+					],
+					[
+						"li",
+						"list\tclass"
+					],
+					[
+						"po",
+						"pow\tfunction"
+					],
+					[
+						"zip",
+						"zip_longest\tclass"
+					],
+					[
+						"imp",
+						"import\tkeyword"
+					],
+					[
+						"sy",
+						"symbols\tfunction"
+					],
+					[
+						"h",
+						"h1\tTag"
+					],
+					[
+						"form",
+						"from\tkeyword"
+					],
+					[
+						"pi",
+						"PIL\tmodule"
+					],
+					[
+						"usi",
+						"using\tnamespace"
+					],
+					[
+						"push",
+						"push_back\tfunc"
+					],
+					[
+						"ite",
+						"I-iterator\tinc"
+					],
+					[
+						"dct",
+						"dct2\tstatement"
+					],
+					[
+						"an",
+						"any\tany"
+					],
+					[
+						"hs",
+						"hstack\tfunction"
+					],
+					[
+						"ost",
+						"I-ostream\tinc"
+					],
+					[
+						"iet",
+						"I-iterator\tinc"
+					],
+					[
+						"map",
+						"I-map\tinc"
+					],
+					[
+						"inte",
+						"intersect1d\tfunction"
+					],
+					[
+						"so",
+						"sorted\tsorted"
+					],
+					[
+						"del",
+						"delicious\tstatement"
+					],
+					[
+						"store",
+						"store_height\tstatement"
+					],
+					[
+						"arr",
+						"array(np\t★ ⟠"
+					],
+					[
+						"T",
+						"True\tkeyword"
+					],
+					[
+						"br",
+						"break\tkeyword"
+					],
+					[
+						"sw",
+						"swapb\tstatement"
+					],
+					[
+						"ar",
+						"array"
+					],
+					[
+						"fr",
+						"fromiter\tfunction"
+					],
+					[
+						"ty",
+						"type\ttype"
+					],
+					[
+						"__i",
+						"__ipow__\tmagic"
+					],
+					[
+						"__it",
+						"__itruediv__\tmagic"
+					],
+					[
+						"__l",
+						"__lshift__\tmagic"
+					],
+					[
+						"tr",
+						"True\tkeyword"
+					],
+					[
+						"fa",
+						"False\tkeyword"
+					],
+					[
+						"pri",
+						"print()\tfunc"
+					],
+					[
+						"op",
+						"open\topen"
+					],
+					[
+						"pu",
+						"public"
+					],
+					[
+						"p",
+						"print\tprint"
+					],
+					[
+						"ke",
+						"KeyError\terror"
+					],
+					[
+						"he",
+						"help\thelp"
+					],
+					[
+						"el",
+						"else\telse"
+					],
+					[
+						"fi",
+						"finally\tkeyword"
+					],
+					[
+						"ex",
+						"except\tkeyword"
+					],
+					[
+						"no",
+						"None\tkeyword"
+					],
+					[
+						"class",
+						"class\tNew Class"
+					],
+					[
+						"__",
+						"__main__"
+					],
+					[
+						"is",
+						"isinstance\tisinstance"
+					],
+					[
+						"en",
+						"enumerate\tenumerate"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Conda/Conda.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py378.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/py38.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Conda/Conda.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Gpy37.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							""
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++11/C++11.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							""
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py378.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							""
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++11/C++11.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/javacodes.sublime-build",
+							""
+						],
+						[
+							"Packages/User/my_java_ka_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myjava.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py378.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						],
+						[
+							"Packages/User/test_java.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/javacodes.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/my_java_ka_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myjava.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py378.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						],
+						[
+							"Packages/User/test_java.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/myjava.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/my_java_ka_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/my_java_ka_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myjava.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						],
+						[
+							"Packages/User/test_java.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/myjava.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/my_java_ka_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/my_java_ka_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						],
+						[
+							"Packages/User/test_java.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Conda/Conda.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py378.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/py38.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Conda/Conda.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Gpy37.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Conda/Conda.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/py38.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/py38.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py378.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/py38.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Gpy37.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"d",
+						"Package Control: Disable Package"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"di",
+						"Package Control: Disable Package"
+					],
+					[
+						"li",
+						"Conda: List Packages"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pak",
+						"Install Package Control"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Lorem ipsum"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 270.0,
+				"history":
+				[
+					"sublime.log_commands(True)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/small/Desktop/cp2021/code4.py",
+				"/C/Users/small/Desktop/cp2021/code2.py",
+				"/C/Users/small/Desktop/cp2021/code5.py",
+				"/C/Users/small/Desktop/cp2021/code3.py",
+				"/C/Users/small/Desktop/cp2021/csp6",
+				"/C/Users/small/Desktop/cp2021/csp5",
+				"/C/Users/small/Desktop/cp2021/csp4",
+				"/C/Users/small/Desktop/cp2021/csp3",
+				"/C/Users/small/Desktop/cp2021/csp2",
+				"/C/Users/small/Desktop/cp2021/csp ans",
+				"/C/Users/small/Desktop/cp2021/code1.py",
+				"/C/Users/small/Desktop/cp2021/output.txt",
+				"/C/Users/small/Desktop/cp2021/input.txt",
+				"/C/Users/small/Desktop/cp2021/solution.cpp",
+				"/C/Users/small/Desktop/cp2021/code6.py",
+				"/C/Users/small/Desktop/cp2021/snippets.py",
+				"/C/Users/small/Desktop/cp2021/pythonchef.py",
+				"/C/Users/small/Desktop/cp2021/Generate.py",
+				"/C/Users/small/Desktop/tcs1/code27.py",
+				"/C/Users/small/Desktop/tcs1/code26.py",
+				"/C/Users/small/Desktop/tcs1/cf1.cpp",
+				"/C/Users/small/Desktop/tcs1/code25.py",
+				"/C/Users/small/Desktop/tcs1/naive.cpp",
+				"/C/Users/small/Desktop/tcs1/Rabin.cpp",
+				"/C/Users/small/Desktop/tcs1/MCM.cpp",
+				"/C/Users/small/Desktop/tcs1/LCS.cpp",
+				"/C/Users/small/Desktop/tcs1/Knapsack.c",
+				"/C/Users/small/Desktop/tcs1/code28.py",
+				"/C/Users/small/Desktop/tcs1/code24.py",
+				"/C/Users/small/Desktop/tcs1/code19.py",
+				"/C/Users/small/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/Default.sublime-keymap",
+				"/C/Users/small/Desktop/tcs1/code23.py",
+				"/C/Users/small/Desktop/tcs1/code21.py",
+				"/C/Users/small/Desktop/tcs1/code20.py",
+				"/C/Users/small/Desktop/download/gradle-wrapper.jar",
+				"/C/Users/small/Desktop/tcs1/code22.py",
+				"/C/Users/small/Desktop/tcs1/input.txt",
+				"/C/Users/small/Desktop/tcs1/output.txt",
+				"/C/Users/small/Desktop/tcs1/cpp/mytemplate.cpp",
+				"/C/Users/small/Desktop/tcs1/cpp/code2.cpp",
+				"/C/Users/small/Desktop/tcs1/quick.cpp",
+				"/C/Users/small/Desktop/tcs1/merge.cpp",
+				"/C/Users/small/Desktop/tcs1/Insertion.cpp",
+				"/C/Users/small/Desktop/tcs1/binary.cpp",
+				"/C/Users/small/Desktop/tcs1/lenear.cpp",
+				"/C/Users/small/Desktop/tcs1/cpp/output.txt",
+				"/C/Users/small/Desktop/tcs1/cpp/input.txt",
+				"/C/Users/small/Desktop/tcs1/cpp/cpptemplate.cpp",
+				"/C/Users/small/Desktop/tcs1/cpp/code3.cpp",
+				"/C/Users/small/Desktop/tcs1/code18.py",
+				"/C/Users/small/Desktop/tcs1/Generate.py",
+				"/C/Users/small/Desktop/tcs1/code15.py",
+				"/C/Users/small/Desktop/Notes/Colg Notes/STONES.py",
+				"/C/Users/small/Desktop/tcs1/code16.py",
+				"/C/Users/small/Desktop/5thsem/JAVA Practice/Code.java",
+				"/C/Users/small/Desktop/project_practice/code3.py",
+				"/C/Users/small/Desktop/cc_py/code1.py",
+				"/C/Users/small/Desktop/project_practice/templates/layout.html",
+				"/C/Users/small/Desktop/project_practice/templates/home.html",
+				"/C/Users/small/Desktop/project_practice/templates/about.html",
+				"/C/Users/small/Desktop/project_practice/templates/my_layout.html",
+				"/C/Users/small/Desktop/project_practice/code2.py",
+				"/C/Users/small/Desktop/project_practice/code1.py",
+				"/C/Users/small/Desktop/tcs1/cpp/code1.cpp",
+				"/C/Users/small/Desktop/tcs1/cpptemp.cpp",
+				"/C/Users/small/Desktop/tcs1/test1.cpp",
+				"/C/Users/small/Desktop/tcs1/code14.py",
+				"/C/Users/small/Desktop/tcs1/code17.py",
+				"/C/Users/small/Desktop/tcs1/code2.py",
+				"/C/Users/small/Desktop/tcs1/code13.py",
+				"/C/Users/small/Desktop/tcs1/code12.py",
+				"/C/Users/small/Desktop/tcs1/code10.py",
+				"/C/Users/small/Desktop/FlaskBlog-master/flaskblog/static/main.css",
+				"/C/Users/small/Desktop/project_practice/static/main.css",
+				"/C/Users/small/Desktop/tcs1/code11.py",
+				"/C/Users/small/Desktop/project_practice/templates/dummy_about.html",
+				"/C/Users/small/Desktop/project_practice/templates/dummy_home.html",
+				"/C/Users/small/Desktop/project_practice/code9.py",
+				"/C/Users/small/Desktop/project_practice/code8.py",
+				"/C/Users/small/Desktop/project_practice/code7.py",
+				"/C/Users/small/Desktop/project_practice/code6.py",
+				"/C/Users/small/Desktop/project_practice/code5.py",
+				"/C/Users/small/Desktop/project_practice/code4.py",
+				"/C/Users/small/Desktop/project_practice/install_used",
+				"/C/Users/small/Desktop/project_practice/Generate.py",
+				"/C/Users/small/Desktop/tcs1/code6.py",
+				"/C/Users/small/Desktop/tcs1/code5.py",
+				"/C/Users/small/Desktop/tcs1/code7.py",
+				"/C/Users/small/Desktop/tcs1/code4.py",
+				"/C/Users/small/Desktop/tcs1/code1.py",
+				"/C/Users/small/Desktop/tcs1/code3.py",
+				"/C/Users/small/Desktop/tcs1/templates/home.html",
+				"/C/Users/small/Desktop/tcs1/project_flask.py",
+				"/C/Users/small/Desktop/dsa_chef/project_flask.py",
+				"/C/Users/small/Desktop/tcs1/code9.py",
+				"/C/Users/small/Desktop/tcs1/code8.py",
+				"/C/Users/small/Desktop/dsa_chef/Generate.py",
+				"/C/Users/small/Desktop/dsa_chef/code33.py",
+				"/C/Users/small/Desktop/dsa_chef/code39.py",
+				"/C/Users/small/Desktop/dsa_chef/code38.py",
+				"/C/Users/small/Desktop/dsa_chef/code36.py",
+				"/C/Users/small/Desktop/dsa_chef/code35.py",
+				"/C/Users/small/Desktop/dsa_chef/code34.py",
+				"/C/Users/small/Desktop/dsa_chef/code37.py",
+				"/C/Users/small/Desktop/dsa_chef/code31.py",
+				"/C/Users/small/Desktop/dsa_chef/code32.py",
+				"/C/Users/small/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/C/Users/small/Desktop/dsa_chef/code40.py",
+				"/C/Users/small/Desktop/dsa_chef/my_geeksforgeeks.py",
+				"/C/Users/small/Desktop/dsa_chef/code22.py",
+				"/C/Users/small/Desktop/dsa_chef/project_merge2.py",
+				"/c/Users/SHUBHAM/AppData/Local/Programs/Python/Python38/lib/site-packages/numpy/__init__.py",
+				"/C/Users/small/Desktop/dsa_chef/project_insertion.py",
+				"/C/Users/small/Desktop/dsa_chef/project_merge.py",
+				"/C/Users/small/Desktop/dsa_chef/project_selction.py",
+				"/C/Users/small/Desktop/dsa_chef/project_bubble.py",
+				"/C/Users/small/Desktop/dsa_chef/code13.py",
+				"/C/Users/small/Desktop/vsjava/Chkst.java",
+				"/C/Users/small/Desktop/vspy/code1.py",
+				"/C/Users/small/Desktop/subcpp/code1.cpp",
+				"/F/1All_User/chrome/Main.java",
+				"/F/1All_User/chrome/TreeNode.java",
+				"/F/1All_User/chrome/Tree.java",
+				"/F/1All_User/chrome/BinarySearchTree.java",
+				"/F/1All_User/chrome/BasicBinaryTree.java",
+				"/C/Users/small/Desktop/dsa_chef/code26.py",
+				"/C/Users/small/Desktop/dsa_chef/code27.py",
+				"/C/Users/small/Desktop/dsa_chef/code23.py"
+			],
+			"find":
+			{
+				"height": 41.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 41.0
+			},
+			"input":
+			{
+				"height": 56.8
+			},
+			"menu_visible": false,
+			"output.CppYCM.2":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 142.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 223.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 78.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 114.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 1247.2
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fun",
+						"fun12to24\tfunction"
+					],
+					[
+						"fu",
+						"fun12to24\tfunction"
+					],
+					[
+						"time",
+						"time\tstatement"
+					],
+					[
+						"re",
+						"replace\tfunction"
+					],
+					[
+						"r",
+						"range\tclass"
+					],
+					[
+						"intp",
+						"input\tfunction"
+					],
+					[
+						"ran",
+						"range\tclass"
+					],
+					[
+						"fro",
+						"for\tFor Loop"
+					],
+					[
+						"cou",
+						"count\tstatement"
+					],
+					[
+						"C",
+						"Counter\tclass"
+					],
+					[
+						"co",
+						"collections\tmodule"
+					],
+					[
+						"it",
+						"itertools\tmodule"
+					],
+					[
+						"Str",
+						"string\tmodule"
+					],
+					[
+						"set",
+						"set1\tstatement"
+					],
+					[
+						"in",
+						"int\tint"
+					],
+					[
+						"ls",
+						"ls2\tstatement"
+					],
+					[
+						"fin",
+						"findMedianSortedArrays\tfunction"
+					],
+					[
+						"num",
+						"nums2\tparam"
+					],
+					[
+						"nums",
+						"nums2\tparam"
+					],
+					[
+						"le",
+						"lengthOfLongestSubstring\tfunction"
+					],
+					[
+						"s",
+						"sqrt\tfunction"
+					],
+					[
+						"c",
+						"countSquares\tfunction"
+					],
+					[
+						"int",
+						"intmax\tstatement"
+					],
+					[
+						"e",
+						"evenx\tstatement"
+					],
+					[
+						"eve",
+						"eveny\tstatement"
+					],
+					[
+						"odd",
+						"oddy\tstatement"
+					],
+					[
+						"fl",
+						"floor\tfunction"
+					],
+					[
+						"ma",
+						"math\tmodule"
+					],
+					[
+						"F",
+						"False\tkeyword"
+					],
+					[
+						"ele",
+						"else\telse"
+					],
+					[
+						"st",
+						"stack\tstatement"
+					],
+					[
+						"ptr",
+						"ptr2\tstatement"
+					],
+					[
+						"merge",
+						"merge_sort"
+					],
+					[
+						"bre",
+						"break\tkeyword"
+					],
+					[
+						"for",
+						"forrange\trange-based for"
+					],
+					[
+						"end",
+						"endl\tostream"
+					],
+					[
+						"com",
+						"complex\tclass"
+					],
+					[
+						"cod",
+						"codechef\tcodeChefStarter"
+					],
+					[
+						"vec",
+						"I-vector\tinc"
+					],
+					[
+						"No",
+						"None\tkeyword"
+					],
+					[
+						"fo",
+						"forrange\trange-based for"
+					],
+					[
+						"ch",
+						"check_password_hash\tfunction"
+					],
+					[
+						"sm",
+						"sm_Bob\tstatement"
+					],
+					[
+						"sm_",
+						"sm_Limak\tstatement"
+					],
+					[
+						"sum",
+						"sum_\tstatement"
+					],
+					[
+						"Pr",
+						"print\tfunction"
+					],
+					[
+						"glo",
+						"global\tkeyword"
+					],
+					[
+						"sc",
+						"scmin\tstatement"
+					],
+					[
+						"elem",
+						"elements\tfunction"
+					],
+					[
+						"list",
+						"list\tlist"
+					],
+					[
+						"sor",
+						"sort_x\tstatement"
+					],
+					[
+						"ra",
+						"range\tfunction"
+					],
+					[
+						"digit",
+						"digit_r"
+					],
+					[
+						"ans",
+						"ans_r\tstatement"
+					],
+					[
+						"tu",
+						"turn\tstatement"
+					],
+					[
+						"inp",
+						"input\tinput"
+					],
+					[
+						"ne",
+						"next\tnext"
+					],
+					[
+						"cla",
+						"class\tkeyword"
+					],
+					[
+						"cl",
+						"class\tkeyword"
+					],
+					[
+						"to",
+						"total_element\tstatement"
+					],
+					[
+						"__di",
+						"__dict__\tmagic"
+					],
+					[
+						"all",
+						"all_work\tstatement"
+					],
+					[
+						"em",
+						"empty\tfunction"
+					],
+					[
+						"fli",
+						"fliplr\tfunction"
+					],
+					[
+						"dia",
+						"diagonal\tfunction"
+					],
+					[
+						"rand",
+						"randint\tfunction"
+					],
+					[
+						"lo",
+						"lower\tparam"
+					],
+					[
+						"mess",
+						"messagebox\tmodule"
+					],
+					[
+						"mes",
+						"message_fun\tfunction"
+					],
+					[
+						"la",
+						"Label\tclass"
+					],
+					[
+						"su",
+						"super\tclass"
+					],
+					[
+						"add_",
+						"add_command\tfunction"
+					],
+					[
+						"add",
+						"add_cascade\tfunction"
+					],
+					[
+						"main",
+						"main_line\tstatement"
+					],
+					[
+						"Top",
+						"TOP\tstatement"
+					],
+					[
+						"BO",
+						"BOTTOM\tstatement"
+					],
+					[
+						"bu",
+						"Button\tclass"
+					],
+					[
+						"try",
+						"try\tkeyword"
+					],
+					[
+						"exc",
+						"Exception\texception"
+					],
+					[
+						"w",
+						"weights\tparam"
+					],
+					[
+						"pl",
+						"plot\tfunction"
+					],
+					[
+						"py",
+						"pyplot\tmodule"
+					],
+					[
+						"mat",
+						"matplotlib\tmodule"
+					],
+					[
+						"fil",
+						"filterfalse\tclass"
+					],
+					[
+						"li",
+						"list\tclass"
+					],
+					[
+						"po",
+						"pow\tfunction"
+					],
+					[
+						"zip",
+						"zip_longest\tclass"
+					],
+					[
+						"imp",
+						"import\tkeyword"
+					],
+					[
+						"sy",
+						"symbols\tfunction"
+					],
+					[
+						"h",
+						"h1\tTag"
+					],
+					[
+						"form",
+						"from\tkeyword"
+					],
+					[
+						"pi",
+						"PIL\tmodule"
+					],
+					[
+						"usi",
+						"using\tnamespace"
+					],
+					[
+						"push",
+						"push_back\tfunc"
+					],
+					[
+						"ite",
+						"I-iterator\tinc"
+					],
+					[
+						"dct",
+						"dct2\tstatement"
+					],
+					[
+						"an",
+						"any\tany"
+					],
+					[
+						"hs",
+						"hstack\tfunction"
+					],
+					[
+						"ost",
+						"I-ostream\tinc"
+					],
+					[
+						"iet",
+						"I-iterator\tinc"
+					],
+					[
+						"map",
+						"I-map\tinc"
+					],
+					[
+						"inte",
+						"intersect1d\tfunction"
+					],
+					[
+						"so",
+						"sorted\tsorted"
+					],
+					[
+						"del",
+						"delicious\tstatement"
+					],
+					[
+						"store",
+						"store_height\tstatement"
+					],
+					[
+						"arr",
+						"array(np\t★ ⟠"
+					],
+					[
+						"T",
+						"True\tkeyword"
+					],
+					[
+						"br",
+						"break\tkeyword"
+					],
+					[
+						"sw",
+						"swapb\tstatement"
+					],
+					[
+						"ar",
+						"array"
+					],
+					[
+						"fr",
+						"fromiter\tfunction"
+					],
+					[
+						"ty",
+						"type\ttype"
+					],
+					[
+						"__i",
+						"__ipow__\tmagic"
+					],
+					[
+						"__it",
+						"__itruediv__\tmagic"
+					],
+					[
+						"__l",
+						"__lshift__\tmagic"
+					],
+					[
+						"tr",
+						"True\tkeyword"
+					],
+					[
+						"fa",
+						"False\tkeyword"
+					],
+					[
+						"pri",
+						"print()\tfunc"
+					],
+					[
+						"op",
+						"open\topen"
+					],
+					[
+						"pu",
+						"public"
+					],
+					[
+						"p",
+						"print\tprint"
+					],
+					[
+						"ke",
+						"KeyError\terror"
+					],
+					[
+						"he",
+						"help\thelp"
+					],
+					[
+						"el",
+						"else\telse"
+					],
+					[
+						"fi",
+						"finally\tkeyword"
+					],
+					[
+						"ex",
+						"except\tkeyword"
+					],
+					[
+						"no",
+						"None\tkeyword"
+					],
+					[
+						"class",
+						"class\tNew Class"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/small/Desktop/cp2021/code1.py",
+					"settings":
+					{
+						"buffer_size": 921,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "from pythonchef import *\nimport numpy as np\n\ndef fun(ls):\n    pass\nT= int(input())\nfor i in range(T):\n    ls= list(map(int,input().split()))\n    fun(ls)\n\nclass Solution:\n    def solve(self, n):\n        while(n>1):\n            if(n%2==0):\n                n=n//2\n            else:\n                if(n%3==0):\n                    n=n//3\n                    continue\n                if n%5==0:\n                    n=n//5\n                    continue\n                return False\n        if n==1:\n            return True\n        else:\n            False\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+					"file": "/C/Users/small/Desktop/cp2021/code2.py",
+					"file_size": 653,
+					"file_write_time": 132573638443424994,
+					"settings":
+					{
+						"buffer_size": 587,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/small/Desktop/cp2021/code3.py",
+					"settings":
+					{
+						"buffer_size": 190,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/small/Desktop/cp2021/code4.py",
+					"settings":
+					{
+						"buffer_size": 270,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/small/Desktop/cp2021/code5.py",
+					"settings":
+					{
+						"buffer_size": 146,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/small/Desktop/cp2021/code6.py",
+					"settings":
+					{
+						"buffer_size": 127,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/small/Desktop/cp2021/code8.py",
+					"settings":
+					{
+						"buffer_size": 530,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/small/Desktop/cp2021/code7.py",
+					"settings":
+					{
+						"buffer_size": 85,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/small/Desktop/cp2021/input.txt",
+					"settings":
+					{
+						"buffer_size": 93,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/small/Desktop/cp2021/output.txt",
+					"settings":
+					{
+						"buffer_size": 2,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Conda/Conda.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py378.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/py38.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Conda/Conda.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Gpy37.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							""
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++11/C++11.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							""
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py378.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							""
+						],
+						[
+							"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++11/C++11.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/javacodes.sublime-build",
+							""
+						],
+						[
+							"Packages/User/my_java_ka_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myjava.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py378.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						],
+						[
+							"Packages/User/test_java.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/javacodes.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/my_java_ka_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myjava.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py378.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						],
+						[
+							"Packages/User/test_java.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/myjava.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/my_java_ka_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/my_java_ka_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myjava.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						],
+						[
+							"Packages/User/test_java.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/myjava.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/my_java_ka_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/my_java_ka_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						],
+						[
+							"Packages/User/test_java.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Conda/Conda.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py378.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/py38.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Conda/Conda.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Gpy37.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Conda/Conda.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/py38.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/py38.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py378.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/py38.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Gpy37.sublime-build",
+							""
+						],
+						[
+							"Packages/User/py38.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Gpy37.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"d",
+						"Package Control: Disable Package"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"di",
+						"Package Control: Disable Package"
+					],
+					[
+						"li",
+						"Conda: List Packages"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pak",
+						"Install Package Control"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Lorem ipsum"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 270.0,
+				"history":
+				[
+					"sublime.log_commands(True)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/small/Desktop/cp2021",
+				"/C/Users/small/Desktop/cp2021/__pycache__"
+			],
+			"file_history":
+			[
+				"/C/Users/small/Desktop/cp2021/code5.py",
+				"/C/Users/small/Desktop/cp2021/code10.py",
+				"/C/Users/small/Desktop/cp2021/code7.py",
+				"/C/Users/small/Desktop/cp2021/code9.py",
+				"/C/Users/small/Desktop/cp2021/code8.py",
+				"/C/Users/small/Desktop/cp2021/code6.py",
+				"/C/Users/small/Desktop/cp2021/code4.py",
+				"/C/Users/small/Desktop/cp2021/code3.py",
+				"/C/Users/small/Desktop/cp2021/code2.py",
+				"/C/Users/small/Desktop/cp2021/A. Wizard of Orz.py",
+				"/C/Users/small/Desktop/cp2021/csp6",
+				"/C/Users/small/Desktop/cp2021/csp5",
+				"/C/Users/small/Desktop/cp2021/csp4",
+				"/C/Users/small/Desktop/cp2021/csp3",
+				"/C/Users/small/Desktop/cp2021/csp2",
+				"/C/Users/small/Desktop/cp2021/csp ans",
+				"/C/Users/small/Desktop/cp2021/code1.py",
+				"/C/Users/small/Desktop/cp2021/output.txt",
+				"/C/Users/small/Desktop/cp2021/input.txt",
+				"/C/Users/small/Desktop/cp2021/solution.cpp",
+				"/C/Users/small/Desktop/cp2021/snippets.py",
+				"/C/Users/small/Desktop/cp2021/pythonchef.py",
+				"/C/Users/small/Desktop/cp2021/Generate.py",
+				"/C/Users/small/Desktop/tcs1/code27.py",
+				"/C/Users/small/Desktop/tcs1/code26.py",
+				"/C/Users/small/Desktop/tcs1/cf1.cpp",
+				"/C/Users/small/Desktop/tcs1/code25.py",
+				"/C/Users/small/Desktop/tcs1/naive.cpp",
+				"/C/Users/small/Desktop/tcs1/Rabin.cpp",
+				"/C/Users/small/Desktop/tcs1/MCM.cpp",
+				"/C/Users/small/Desktop/tcs1/LCS.cpp",
+				"/C/Users/small/Desktop/tcs1/Knapsack.c",
+				"/C/Users/small/Desktop/tcs1/code28.py",
+				"/C/Users/small/Desktop/tcs1/code24.py",
+				"/C/Users/small/Desktop/tcs1/code19.py",
+				"/C/Users/small/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/Default.sublime-keymap",
+				"/C/Users/small/Desktop/tcs1/code23.py",
+				"/C/Users/small/Desktop/tcs1/code21.py",
+				"/C/Users/small/Desktop/tcs1/code20.py",
+				"/C/Users/small/Desktop/download/gradle-wrapper.jar",
+				"/C/Users/small/Desktop/tcs1/code22.py",
+				"/C/Users/small/Desktop/tcs1/input.txt",
+				"/C/Users/small/Desktop/tcs1/output.txt",
+				"/C/Users/small/Desktop/tcs1/cpp/mytemplate.cpp",
+				"/C/Users/small/Desktop/tcs1/cpp/code2.cpp",
+				"/C/Users/small/Desktop/tcs1/quick.cpp",
+				"/C/Users/small/Desktop/tcs1/merge.cpp",
+				"/C/Users/small/Desktop/tcs1/Insertion.cpp",
+				"/C/Users/small/Desktop/tcs1/binary.cpp",
+				"/C/Users/small/Desktop/tcs1/lenear.cpp",
+				"/C/Users/small/Desktop/tcs1/cpp/output.txt",
+				"/C/Users/small/Desktop/tcs1/cpp/input.txt",
+				"/C/Users/small/Desktop/tcs1/cpp/cpptemplate.cpp",
+				"/C/Users/small/Desktop/tcs1/cpp/code3.cpp",
+				"/C/Users/small/Desktop/tcs1/code18.py",
+				"/C/Users/small/Desktop/tcs1/Generate.py",
+				"/C/Users/small/Desktop/tcs1/code15.py",
+				"/C/Users/small/Desktop/Notes/Colg Notes/STONES.py",
+				"/C/Users/small/Desktop/tcs1/code16.py",
+				"/C/Users/small/Desktop/5thsem/JAVA Practice/Code.java",
+				"/C/Users/small/Desktop/project_practice/code3.py",
+				"/C/Users/small/Desktop/cc_py/code1.py",
+				"/C/Users/small/Desktop/project_practice/templates/layout.html",
+				"/C/Users/small/Desktop/project_practice/templates/home.html",
+				"/C/Users/small/Desktop/project_practice/templates/about.html",
+				"/C/Users/small/Desktop/project_practice/templates/my_layout.html",
+				"/C/Users/small/Desktop/project_practice/code2.py",
+				"/C/Users/small/Desktop/project_practice/code1.py",
+				"/C/Users/small/Desktop/tcs1/cpp/code1.cpp",
+				"/C/Users/small/Desktop/tcs1/cpptemp.cpp",
+				"/C/Users/small/Desktop/tcs1/test1.cpp",
+				"/C/Users/small/Desktop/tcs1/code14.py",
+				"/C/Users/small/Desktop/tcs1/code17.py",
+				"/C/Users/small/Desktop/tcs1/code2.py",
+				"/C/Users/small/Desktop/tcs1/code13.py",
+				"/C/Users/small/Desktop/tcs1/code12.py",
+				"/C/Users/small/Desktop/tcs1/code10.py",
+				"/C/Users/small/Desktop/FlaskBlog-master/flaskblog/static/main.css",
+				"/C/Users/small/Desktop/project_practice/static/main.css",
+				"/C/Users/small/Desktop/tcs1/code11.py",
+				"/C/Users/small/Desktop/project_practice/templates/dummy_about.html",
+				"/C/Users/small/Desktop/project_practice/templates/dummy_home.html",
+				"/C/Users/small/Desktop/project_practice/code9.py",
+				"/C/Users/small/Desktop/project_practice/code8.py",
+				"/C/Users/small/Desktop/project_practice/code7.py",
+				"/C/Users/small/Desktop/project_practice/code6.py",
+				"/C/Users/small/Desktop/project_practice/code5.py",
+				"/C/Users/small/Desktop/project_practice/code4.py",
+				"/C/Users/small/Desktop/project_practice/install_used",
+				"/C/Users/small/Desktop/project_practice/Generate.py",
+				"/C/Users/small/Desktop/tcs1/code6.py",
+				"/C/Users/small/Desktop/tcs1/code5.py",
+				"/C/Users/small/Desktop/tcs1/code7.py",
+				"/C/Users/small/Desktop/tcs1/code4.py",
+				"/C/Users/small/Desktop/tcs1/code1.py",
+				"/C/Users/small/Desktop/tcs1/code3.py",
+				"/C/Users/small/Desktop/tcs1/templates/home.html",
+				"/C/Users/small/Desktop/tcs1/project_flask.py",
+				"/C/Users/small/Desktop/dsa_chef/project_flask.py",
+				"/C/Users/small/Desktop/tcs1/code9.py",
+				"/C/Users/small/Desktop/tcs1/code8.py",
+				"/C/Users/small/Desktop/dsa_chef/Generate.py",
+				"/C/Users/small/Desktop/dsa_chef/code33.py",
+				"/C/Users/small/Desktop/dsa_chef/code39.py",
+				"/C/Users/small/Desktop/dsa_chef/code38.py",
+				"/C/Users/small/Desktop/dsa_chef/code36.py",
+				"/C/Users/small/Desktop/dsa_chef/code35.py",
+				"/C/Users/small/Desktop/dsa_chef/code34.py",
+				"/C/Users/small/Desktop/dsa_chef/code37.py",
+				"/C/Users/small/Desktop/dsa_chef/code31.py",
+				"/C/Users/small/Desktop/dsa_chef/code32.py",
+				"/C/Users/small/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/C/Users/small/Desktop/dsa_chef/code40.py",
+				"/C/Users/small/Desktop/dsa_chef/my_geeksforgeeks.py",
+				"/C/Users/small/Desktop/dsa_chef/code22.py",
+				"/C/Users/small/Desktop/dsa_chef/project_merge2.py",
+				"/c/Users/SHUBHAM/AppData/Local/Programs/Python/Python38/lib/site-packages/numpy/__init__.py",
+				"/C/Users/small/Desktop/dsa_chef/project_insertion.py",
+				"/C/Users/small/Desktop/dsa_chef/project_merge.py",
+				"/C/Users/small/Desktop/dsa_chef/project_selction.py",
+				"/C/Users/small/Desktop/dsa_chef/project_bubble.py",
+				"/C/Users/small/Desktop/dsa_chef/code13.py",
+				"/C/Users/small/Desktop/vsjava/Chkst.java",
+				"/C/Users/small/Desktop/vspy/code1.py",
+				"/C/Users/small/Desktop/subcpp/code1.cpp",
+				"/F/1All_User/chrome/Main.java",
+				"/F/1All_User/chrome/TreeNode.java",
+				"/F/1All_User/chrome/Tree.java"
+			],
+			"find":
+			{
+				"height": 41.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\small\\Desktop\\cp2021"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/small/Desktop/cp2021/code1.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 921,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										79,
+										79
+									]
+								],
+								"settings":
+								{
+									"show_definitions": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 384.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/small/Desktop/cp2021/code2.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 587,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										153,
+										153
+									]
+								],
+								"settings":
+								{
+									"show_definitions": false,
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/small/Desktop/cp2021/code3.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 190,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										44,
+										44
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/small/Desktop/cp2021/code4.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 270,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14,
+										14
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/small/Desktop/cp2021/code5.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 146,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										17,
+										17
+									]
+								],
+								"settings":
+								{
+									"show_definitions": false,
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Users/small/Desktop/cp2021/code6.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 127,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										73,
+										73
+									]
+								],
+								"settings":
+								{
+									"show_definitions": false,
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/Users/small/Desktop/cp2021/code8.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 530,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										448,
+										46
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/Users/small/Desktop/cp2021/code7.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 85,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 8,
+							"file": "/C/Users/small/Desktop/cp2021/input.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 93,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										21,
+										13
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 9,
+							"file": "/C/Users/small/Desktop/cp2021/output.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 41.0
+			},
+			"input":
+			{
+				"height": 56.8
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.587136929461,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.CppYCM.2":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 143.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 223.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,864,102,44,1364",
+			"project": "",
+			"replace":
+			{
+				"height": 78.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items

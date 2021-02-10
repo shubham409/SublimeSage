@@ -1,0 +1,15 @@
+{
+    "anaconda_linting" : false,
+    "enable_signatures_tooltip" : true,
+    "merge_signatures_and_doc" : true,
+    "python_interpreter":"C:\\Users\\SHUBHAM\\AppData\\Local\\Programs\\Python\\Python38\\python"
+}
+
+// kite to stop anaconda
+// {
+//   "disable_anaconda_completion": true,
+//   "display_signatures": false,
+//     "anaconda_linting" : false,
+  
+// }
+//  "python_interpreter":"G:\\carefulapp\\zpythontest\\python"
